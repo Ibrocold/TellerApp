@@ -16,7 +16,7 @@ TellerApp is a simple Java console project that simulates a café payment termin
 
 ## Project Structure
 
-
+```text
 TellerApp/
 ├── Main.java
 ├── PaymentCard.java
